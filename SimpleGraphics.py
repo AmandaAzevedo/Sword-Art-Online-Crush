@@ -78,6 +78,7 @@
 #                crashes at shutdown when __canvas gets set to None before
 #                the last drawing operations are attempted.
 #
+
 import pprint
 
 from sys import exit 

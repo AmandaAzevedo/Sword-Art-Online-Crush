@@ -108,6 +108,7 @@ def hLineAt(board, row, col):
         if(board[row][col] == board[row][col+1]) and (board[row][col] == board[row][col+2]):
             return True
     return False
+
         
 
 
